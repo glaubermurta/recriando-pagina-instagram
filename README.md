@@ -1,2 +1,2 @@
 # recriando pagina instagram
- Treinando HTML + CSSA
+ Treinando HTML + CSS
